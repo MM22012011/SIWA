@@ -1,0 +1,30 @@
+body{
+    font-family: 'Comforter', cursive;
+    background-color:black;
+    color: whitesmoke;
+
+}
+
+.header_div{
+    background-color: dimgray;
+    color: aliceblue;
+
+}
+
+.header_div p{
+    font-family: 'Comforter', cursive;
+    color: ghostwhite;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+
+.main_div button{
+font-family: 'Times New Roman', Times, serif;
+margin-top: 30px;
+width: 130px;
+font-weight: lighter;
+letter-spacing: 10px;
+
+}
